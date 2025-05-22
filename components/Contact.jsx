@@ -30,7 +30,7 @@ export default function Contact() {
                   href="javascript:void(0)"
                   className="text-white text-sm ml-4"
                 >
-                  max4technology@gmail.com
+                  phucprono1@gmail.com
                 </a>
               </li>
               <li className="flex items-center">
@@ -50,7 +50,7 @@ export default function Contact() {
                   href="javascript:void(0)"
                   className="text-white text-sm ml-4"
                 >
-                  +88 01635 404 525
+                  +84 96 447 9105
                 </a>
               </li>
               <li className="flex items-center">
@@ -70,7 +70,7 @@ export default function Contact() {
                   href="javascript:void(0)"
                   className="text-white text-sm ml-4"
                 >
-                  +88 01711 458 474
+                  +84 96 447 9105
                 </a>
               </li>
               <li className="flex items-center">
@@ -90,7 +90,7 @@ export default function Contact() {
                   href="javascript:void(0)"
                   className="text-white text-sm ml-4"
                 >
-                  +88 01914 296 514
+                  +84 96 447 9105
                 </a>
               </li>
               <li className="flex items-center">
@@ -115,7 +115,7 @@ export default function Contact() {
                   className="text-white text-sm ml-4"
                 >
                   401/B, 3rd Floor, Plot #Ga Block #D, Satmasjid Super Market,
-                  Mohammadpur, Dhaka-1207, Bangladesh
+                  Hanoi, Vietnam
                 </a>
               </li>
             </ul>
