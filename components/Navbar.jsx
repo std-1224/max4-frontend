@@ -29,17 +29,16 @@ export default function Navbar() {
             <a className="mr-5 text-[#FFE5CF] flex items-center gap-1">
               <CiLocationOn className="text-sm" />
               <span className="text-sm">
-                401/B, 3rd Floor, Plot #Ga Block #D, Satmasjid Super Market,
-                Mohammadpur, Dhaka-1207, Bangladesh
+               Hanoi, Vietnam
               </span>
             </a>
             <a className="mr-5 text-[#FFE5CF] flex items-center gap-1">
               <FiPhone className="text-sm" />
-              <span className="text-sm">+88 01635 404 525</span>
+              <span className="text-sm">+84 06 447 9105 </span>
             </a>
             <a className="mr-5 text-[#FFE5CF] flex items-center gap-1">
               <FiPhone className="text-sm" />
-              <span className="text-sm">+88 01711 458 474</span>
+              <span className="text-sm">+84 06 447 9105</span>
             </a>
             <a className="mr-5 text-[#FFE5CF] flex items-center gap-1">
               <FiPhone className="text-sm" />
@@ -47,7 +46,7 @@ export default function Navbar() {
             </a>
             <a className="mr-5 text-[#FFE5CF] flex items-center gap-1">
               <AiOutlineMail className="text-sm" />
-              <span className="text-sm">max4technology@gmail.com</span>
+              <span className="text-sm">phucprono1@gmail.com</span>
             </a>
             </div>
           </marquee>
